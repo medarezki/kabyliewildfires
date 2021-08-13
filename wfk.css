@@ -142,95 +142,18 @@ color: white;
 }
 
 
+/*Mobile*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media only screen and (max-device-width: 750px) {
-
-#header{
-	height: 7px;
-	background-color: orange;
-}
-
-#end{
-	height: 7px;
-	background-color: orange;
-}
-
-
-.jumbotron{
-	border-radius: 0px;
-	margin-bottom: 0px;
-	margin-top: 0px;
-}
-
-#expostext{
-	background-color: black;
-	color: white;
-}
-
-
-#exposwrap{
-	background-image: url("illustrations/photo-1615092296061-e2ccfeb2f3d6.jpg");
-	background-size:cover;
-	color: white;
-}
-
-#news{
-
-	background-color: transparent;
-	color: black;
-
-}
-
-#newstitle{
+#newstitlem{
 	background-color: transparent;
     color: black;
 
  
 }
 
-#cardnews{
 
-	color :white;
 
-    margin-top: 0px;
-
-	background-color: transparent;
-	border-top-style:solid;
-	border-top-color: orange;
-	border-top-width:5px;  
-
-	border-bottom-style:solid;
-	border-bottom-color: orange;
-	border-bottom-width:5px;  
-
-	border-left-width:0px; 
-	border-right-width:0px; 
-
-}
-
-#newschild{
+#newschildm{
 
 	
    
@@ -239,25 +162,8 @@ color: white;
 
 
 
-#berbericon{
 
-
-	background-image: linear-gradient(to bottom, black, transparent), url("illustrations/téléchargement.png");
-	background-size:cover;
-}
-
-
-
-#cvddisclaimer{
-
-	
-background-color: transparent;
-color: white;
-
-}
-
-
-#newscontent{
+#newscontentm{
 
 	height:150px;
 
@@ -267,29 +173,5 @@ color: white;
 
 }
 
-#help{
 
-
-
-}
-
-
-#donations{
-
-	
-	background-color: #ff6a00;
-
-}
-
-#carddonation{
-
-	border-radius:0px;
-	background-color: transparent;
-
-	border-color: black;
-	border-style: solid;
-	border-width: 2px;
-}
-
-
-}
+/*endMobile*/
